@@ -101,3 +101,7 @@ Plotly.newPlot(
 </body>
 
 </html>
+  </script>
+</body>
+
+</html>
